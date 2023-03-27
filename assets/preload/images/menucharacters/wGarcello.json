@@ -1,0 +1,11 @@
+{
+	"idle_anim": "A",
+	"image": "wGarcello",
+	"position": [
+		489,
+		33
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "A"
+}
