@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mostaza.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MostazaDown0000" x="0" y="0" width="614" height="710" frameX="-1" frameY="-9" frameWidth="615" frameHeight="720"/>
+	<SubTexture name="MostazaDown0001" x="0" y="0" width="614" height="710" frameX="-1" frameY="-9" frameWidth="615" frameHeight="720"/>
+	<SubTexture name="MostazaDown0002" x="614" y="0" width="611" height="700" frameX="0" frameY="-19" frameWidth="615" frameHeight="720"/>
+	<SubTexture name="MostazaDown0003" x="614" y="0" width="611" height="700" frameX="0" frameY="-19" frameWidth="615" frameHeight="720"/>
+	<SubTexture name="MostazaDown0004" x="1225" y="0" width="604" height="704" frameX="-2" frameY="-15" frameWidth="615" frameHeight="720"/>
+	<SubTexture name="MostazaDown0005" x="1225" y="0" width="604" height="704" frameX="-2" frameY="-15" frameWidth="615" frameHeight="720"/>
+	<SubTexture name="MostazaIdle0000" x="1829" y="0" width="477" height="862" frameX="-13" frameY="-8" frameWidth="490" frameHeight="870"/>
+	<SubTexture name="MostazaIdle0001" x="1829" y="0" width="477" height="862" frameX="-13" frameY="-8" frameWidth="490" frameHeight="870"/>
+	<SubTexture name="MostazaIdle0002" x="2306" y="0" width="482" height="855" frameX="-8" frameY="-15" frameWidth="490" frameHeight="870"/>
+	<SubTexture name="MostazaIdle0003" x="2306" y="0" width="482" height="855" frameX="-8" frameY="-15" frameWidth="490" frameHeight="870"/>
+	<SubTexture name="MostazaIdle0004" x="0" y="855" width="480" height="859" frameX="-6" frameY="-11" frameWidth="490" frameHeight="870"/>
+	<SubTexture name="MostazaIdle0005" x="0" y="855" width="480" height="859" frameX="-6" frameY="-11" frameWidth="490" frameHeight="870"/>
+	<SubTexture name="MostazaIdle0006" x="480" y="855" width="484" height="867" frameX="0" frameY="-3" frameWidth="490" frameHeight="870"/>
+	<SubTexture name="MostazaIdle0007" x="480" y="855" width="484" height="867" frameX="0" frameY="-3" frameWidth="490" frameHeight="870"/>
+	<SubTexture name="MostazaIdle0008" x="964" y="855" width="481" height="869" frameX="-2" frameY="-1" frameWidth="490" frameHeight="870"/>
+	<SubTexture name="MostazaIdle0009" x="964" y="855" width="481" height="869" frameX="-2" frameY="-1" frameWidth="490" frameHeight="870"/>
+	<SubTexture name="MostazaIdle0010" x="2306" y="855" width="479" height="869" frameX="-4" frameY="0" frameWidth="490" frameHeight="870"/>
+	<SubTexture name="MostazaIdle0011" x="2306" y="855" width="479" height="869" frameX="-4" frameY="0" frameWidth="490" frameHeight="870"/>
+	<SubTexture name="MostazaIdle0012" x="2306" y="855" width="479" height="869" frameX="-4" frameY="0" frameWidth="490" frameHeight="870"/>
+	<SubTexture name="MostazaIdle0013" x="2306" y="855" width="479" height="870" frameX="-4" frameY="0" frameWidth="490" frameHeight="870"/>
+	<SubTexture name="MostazaLeft0000" x="1445" y="862" width="644" height="848" frameX="-8" frameY="-6" frameWidth="655" frameHeight="854"/>
+	<SubTexture name="MostazaLeft0001" x="1445" y="862" width="644" height="848" frameX="-8" frameY="-6" frameWidth="655" frameHeight="854"/>
+	<SubTexture name="MostazaLeft0002" x="0" y="1725" width="652" height="848" frameX="0" frameY="-6" frameWidth="655" frameHeight="854"/>
+	<SubTexture name="MostazaLeft0003" x="0" y="1725" width="652" height="848" frameX="0" frameY="-6" frameWidth="655" frameHeight="854"/>
+	<SubTexture name="MostazaLeft0004" x="652" y="1725" width="626" height="854" frameX="-28" frameY="0" frameWidth="655" frameHeight="854"/>
+	<SubTexture name="MostazaLeft0005" x="652" y="1725" width="626" height="854" frameX="-28" frameY="0" frameWidth="655" frameHeight="854"/>
+	<SubTexture name="MostazaRight0000" x="1278" y="1725" width="663" height="858" frameX="-1" frameY="-8" frameWidth="667" frameHeight="866"/>
+	<SubTexture name="MostazaRight0001" x="1278" y="1725" width="663" height="858" frameX="-1" frameY="-8" frameWidth="667" frameHeight="866"/>
+	<SubTexture name="MostazaRight0002" x="1941" y="1725" width="666" height="861" frameX="-1" frameY="-5" frameWidth="667" frameHeight="866"/>
+	<SubTexture name="MostazaRight0003" x="1941" y="1725" width="666" height="861" frameX="-1" frameY="-5" frameWidth="667" frameHeight="866"/>
+	<SubTexture name="MostazaRight0004" x="2788" y="0" width="649" height="866" frameX="0" frameY="0" frameWidth="667" frameHeight="866"/>
+	<SubTexture name="MostazaRight0005" x="2788" y="0" width="649" height="866" frameX="0" frameY="0" frameWidth="667" frameHeight="866"/>
+	<SubTexture name="MostazaUp0000" x="2785" y="866" width="429" height="933" frameX="-5" frameY="-9" frameWidth="440" frameHeight="942"/>
+	<SubTexture name="MostazaUp0001" x="2785" y="866" width="429" height="933" frameX="-5" frameY="-9" frameWidth="440" frameHeight="942"/>
+	<SubTexture name="MostazaUp0002" x="2607" y="1799" width="433" height="942" frameX="-1" frameY="0" frameWidth="440" frameHeight="942"/>
+	<SubTexture name="MostazaUp0003" x="2607" y="1799" width="433" height="942" frameX="-1" frameY="0" frameWidth="440" frameHeight="942"/>
+	<SubTexture name="MostazaUp0004" x="3040" y="1799" width="440" height="930" frameX="0" frameY="-11" frameWidth="440" frameHeight="942"/>
+	<SubTexture name="MostazaUp0005" x="3040" y="1799" width="440" height="930" frameX="0" frameY="-11" frameWidth="440" frameHeight="942"/>
+</TextureAtlas>
