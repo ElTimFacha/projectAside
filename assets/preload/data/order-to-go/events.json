@@ -1,0 +1,81 @@
+{
+	"song": {
+		"events": [
+			[
+				66750,
+				[
+					[
+						"Change Character",
+						"1",
+						"garcello-bars"
+					],
+					[
+						"GifTrif",
+						"0",
+						""
+					],
+					[
+						"Camera_Tween_Zoom",
+						"0.95, 1",
+						""
+					]
+				]
+			],
+			[
+				66875,
+				[
+					[
+						"GifTrif",
+						"Tight",
+						""
+					]
+				]
+			],
+			[
+				67000,
+				[
+					[
+						"GifTrif",
+						"Bars",
+						""
+					]
+				]
+			],
+			[
+				67250,
+				[
+					[
+						"GifTrif",
+						"Little",
+						""
+					]
+				]
+			],
+			[
+				67500,
+				[
+					[
+						"GifTrif",
+						"Man",
+						""
+					]
+				]
+			],
+			[
+				68000,
+				[
+					[
+						"GifTrif",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"garcello"
+					]
+				]
+			]
+		]
+	}
+}
